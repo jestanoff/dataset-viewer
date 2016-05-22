@@ -1,0 +1,52 @@
+body {
+    background: #F7F7F7;
+}
+
+.dataset-viewer__left-column,
+.dataset-viewer__right-column {
+    background: #fff;
+    padding: .5em 1em;
+}
+
+.dataset-viewer__left-column {
+    overflow: hidden;
+}
+
+.dataset-viewer__add-button i {
+    color: green;
+}
+
+#dataset-viewer__template-name,
+#dataset-viewer__template-value {
+    width: 43%;
+    display: inline-block;
+}
+
+.dataset-viewer__add-button {
+    width: 12%;
+    display: inline-block;
+}
+
+.table-datasets {
+    .td-name {
+        font-size: 14px;
+    }
+
+    .td-description {
+        font-size: 12px;
+    }
+}
+
+.dataset-viewer__line-chart {
+    overflow: hidden;
+}
+
+.dataset-viewer__header {
+    background: #172D44;
+    height:60px;
+    padding: 5px;
+}
+
+.dataset-viewr__logo {
+    padding: 9px;
+}
