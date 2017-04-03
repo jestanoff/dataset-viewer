@@ -1,6 +1,6 @@
-#Installation
-- npm install
+## Installation
+`npm install`
 
-#Buld
-- gulp
-- npm start
+## Buld
+`gulp`
+`npm start`
